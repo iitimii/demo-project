@@ -1,0 +1,10 @@
+torch
+torchvision
+lightning
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+python-multipart
+torchmetrics
+tensorboard
