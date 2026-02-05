@@ -16,7 +16,7 @@ End-to-end fruit image classification using transfer learning (EfficientNetV2-S)
 ## Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/iitimii/demo-project.git
 cd fruits-classification
 pip install -r requirements.txt
 ```
