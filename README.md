@@ -11,13 +11,12 @@ End-to-end fruit image classification using transfer learning (EfficientNetV2-S)
 - `config.py`: Global configuration (batch size, epochs, paths)
 - `frontend/`: Web UI (HTML, CSS, JavaScript)
 - `Fruits Classification/`: Dataset directory (train/valid/test)
-- `model.ckpt`: Fine-tuned model checkpoint
 
 ## Setup
 
 ```bash
 git clone https://github.com/iitimii/demo-project.git
-cd fruits-classification
+cd demo-project
 pip install -r requirements.txt
 ```
 
